@@ -1,0 +1,65 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Event Hub</title>
+</head>
+
+<body>
+    <header>
+        <h1>Event Hub</h1>
+        <nav>
+            <ul>
+                <li><a href="#upcoming-events">Upcoming Events</a></li>
+                <li><a href="#past-events">Past Events</a></li>
+            </ul>
+    </header>
+    <main>
+        <section id="upcoming-events">
+            <h2>Upcoming Events</h2>
+            <article>
+                <h3>Ethiopian Cultural Dancing</h3>
+                <p>
+Ethiopian cultural dances are vibrant expressions of tradition, showcasing the country’s diverse ethnic groups through unique rhythms, movements, and colorful attire. They are often performed during weddings, festivals, and community gatherings, celebrating history and unity.
+</p>
+
+            </article>
+            <article>
+                <h3>Unique Traditonal celebration</h3>
+                <p>
+Ethiopia’s unique traditional celebrations blend ancient customs with vibrant community spirit. From the colorful Meskel festival marking the finding of the True Cross to the spirited Timket epiphany processions, these events unite people in faith, music, and shared heritage.
+</p>
+
+            </article>
+
+        </section>
+        <section id="past-events">
+            <h2>Past Events</h2>
+            <article>
+                <h3>The Ethiopian Ephiphany Day</h3>
+                <p>
+Ethiopian Epiphany, known as Timket, is a vibrant religious festival commemorating the baptism of Jesus Christ in the Jordan River. Celebrated on January 19 (or 20 in a leap year), it features colorful processions, sacred music, and a symbolic water blessing that draws thousands of participants.
+</p>
+                <img src="https://images.unsplash.com/photo-1549687880-f68be654594c?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Aworshipers serve their God by holy songs">
+            </article>
+            <article>
+                <h3>The Good Friday</h3>
+                <p>
+Good Friday in Ethiopia is a solemn day of fasting, prayer, and reflection, marking the crucifixion of Jesus Christ. Worshippers gather in churches for long liturgical services, honoring the sacrifice and preparing for the joy of Easter Sunday.
+</p>
+                 <img src="https://media.istockphoto.com/id/1475463594/photo/tarawih-prayer-in-baiturrahman-grand-mosque-aceh-indonesia.webp?a=1&s=612x612&w=0&k=20&c=LfwbdzmKhp3BpxyNgs7O7vLvGxFDgLYYIZv-QZsywIQ=" alt="Ethiopian orthodox worshipers praise their lord">
+
+            </article>
+
+
+        </section>
+    </main>
+</body>
+
+</html>
+
+** end of index.html **
+
